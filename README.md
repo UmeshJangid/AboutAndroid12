@@ -167,10 +167,10 @@ Completing the migration of our android app to Android 12 and launching it in pr
 Thanks for reading! Have a good day.
 
 #### References:
-[Android Developers Site](https://developer.android.com/about/versions/12)
-Stakeoverflow :)
-Medium
-Github Sources   
+* [Android Developers Site](https://developer.android.com/about/versions/12)
+* Stakeoverflow :)
+* Medium
+* Github Sources   
 
 
 
